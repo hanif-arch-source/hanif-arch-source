@@ -36,22 +36,6 @@ Improving my Python scripting skills to automate repetitive tasks, simplify netw
 
 ---
 
-## 🚀 Featured Project
-
-### NETMUS — Network Monitoring & Intelligent Troubleshooting
-
-My focus is on developing a system that helps identify network faults, diagnose potential causes, and automate recovery where possible.
-
-**Project goals:**
-- 📡 Detect network faults and connectivity issues.
-- 🔍 Diagnose possible causes of network failures.
-- ⚙️ Automate selected troubleshooting and recovery procedures.
-- 📊 Improve visibility into network health and reliability.
-
-*The goal is to explore how automation and intelligent diagnostics can make network management more efficient.*
-
----
-
 ## 🎯 My Interests
 
 - 🌐 Computer networking and infrastructure
