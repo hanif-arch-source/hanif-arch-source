@@ -2,7 +2,6 @@
 
 ### 💻 Information Technology Student | Networking | Cybersecurity | Software Development
 
-## 🧰 Tech Stack & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -20,9 +19,6 @@
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 
-I'm an Information Technology student at the **Technical University of Kenya**, passionate about building secure, efficient, and intelligent digital systems.
-
-My interests span **computer networking, cybersecurity, software engineering, and automation**. I enjoy solving technical problems, experimenting with new technologies, and developing practical solutions that make digital infrastructure more reliable and secure.
 
 > 🚀 *Better networks. Safer systems. A smarter future.*
 
