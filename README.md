@@ -1,6 +1,5 @@
-# 👋 Hi there, I'm Hanif!
 
-### 💻 Information Technology Student | Networking | Cybersecurity | Software Development
+### 💻 Information Technology  | Networking | Cybersecurity | Software Development
 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -63,17 +62,6 @@ My focus is on developing a system that helps identify network faults, diagnose 
 - 📡 IoT and connected systems
 
 ---
-
-## 📬 Connect With Me
-
-💼 **LinkedIn:** [Connect with me](https://linkedin.com)
-
-💻 **GitHub:** [Explore my repositories](https://github.com/hanif-arch-source)
-
-I'm always interested in learning, collaborating on meaningful projects, and connecting with people in IT, networking, and cybersecurity.
-
----
-
 ### ⚡ My Philosophy
 
 **Learn, Build and Secure.**
