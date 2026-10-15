@@ -20,33 +20,8 @@
 
 
 > 🚀 *Better networks. Safer systems. A smarter future.*
-
+> 
 ---
-
-## 🛠️ What I'm Working On
-
-🔹 **NETMUS — Intelligent Network Fault Management**  
-Developing an intelligent system for detecting, diagnosing, and automatically recovering from network faults to improve network reliability and reduce downtime.
-
-🔹 **Network Defense & Cybersecurity**  
-Building practical skills in network security, penetration-testing labs, firewall configuration, traffic analysis, and threat detection.
-
-🔹 **Python Automation & IoT**  
-Improving my Python scripting skills to automate repetitive tasks, simplify network operations, and explore Internet of Things integration.
-
----
-
-## 🎯 My Interests
-
-- 🌐 Computer networking and infrastructure
-- 🔐 Cybersecurity and network defense
-- 🤖 Intelligent automation and Python scripting
-- 💻 Software engineering and application development
-- ☁️ Virtualization and system administration
-- 📡 IoT and connected systems
-
----
-### ⚡ My Philosophy
 
 **Learn, Build and Secure.**
 
